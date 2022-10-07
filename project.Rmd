@@ -10,3 +10,6 @@ library(tidyverse)
 theme_set(theme_bw())
 data("penguins", package = "palmerpenguins")
 ```
+
+
+This is our  Group contract
